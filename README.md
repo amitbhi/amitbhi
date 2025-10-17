@@ -8,7 +8,7 @@
 ### 🧠 About Me
 With **17 years of progressive IT experience** — including **10 in Data Science** and **5 in Generative AI** — I architect and operationalize data-driven transformation for renewable energy OEMs.
 
-Currently leading **Suzlon Energy’s Analytics Centre**, managing a ₹9 Cr (~€0.86 M) budget, driving predictive and generative initiatives across turbine manufacturing, O&M, and corporate analytics.
+Currently leading **Suzlon Energy’s Analytics Centre**, driving predictive and generative initiatives across turbine manufacturing, O&M, and corporate analytics.
 
 ---
 
@@ -22,8 +22,8 @@ Currently leading **Suzlon Energy’s Analytics Centre**, managing a ₹9 Cr (~�
 ---
 
 ### 🌍 Tech Focus
- ·  ·  ·  ·  ·   
- ·  ·  ·  ·  ·  ·  · 
+`LLM-Ops` · `MLOps` · `Predictive Maintenance` · `Computer Vision` · `Text-to-SQL` · `IT-OT Integration`  
+`Python` · `FastAPI` · `Docker` · `Kubernetes` · `PostgreSQL` · `SCADA` · `Azure` · `Snowflake`
 
 ---
 
