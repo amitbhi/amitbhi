@@ -28,8 +28,8 @@ Currently leading **Suzlon Energy’s Analytics Centre**, driving predictive and
 ---
 
 ### 💬 Ask-Amit (AI Companion)
-Try my live portfolio chatbot powered by a lightweight LLM hosted on Vercel:  
-👉 [**ask-amit.vercel.app**](https://ask-amit.vercel.app)
+Try my live portfolio chatbot powered by a lightweight LLM hosted on Render:  
+👉 [**amit-profile.onrender.com**](https://amit-profile.onrender.com)
 
 It can answer questions about my professional work, projects, and research background.
 
